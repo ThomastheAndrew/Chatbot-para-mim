@@ -2,7 +2,7 @@
 #include <conio.h>
 
 #define width 50
-#define height 50
+#define height 10
 
 int main(){
 	
